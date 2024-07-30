@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/MP1/Content/BP/BP_SandboxCharacter.uasset",
+				"C:/Work/MP1/Content/BP/WB_Chat.uasset",
+				"C:/Work/MP1/Content/BP_Chat/AC_Chat.uasset",
+				"C:/Work/MP1/Content/BP_Chat/AC_Chat_PC.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_Chat.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_Chat_PC.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_Chat_Enpty.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_ChatBox.uasset",
+				"C:/Work/MP1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Work/MP1/Content/BP_Chat/BP_GamePC.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_CahtUI.uasset",
+				"C:/Work/MP1/Content/BP_Chat/WB_ChatUI.uasset"
+			]
+		}
+	]
+}
